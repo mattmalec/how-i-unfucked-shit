@@ -51,7 +51,7 @@ Directories:
 
 ### Nginx Configuration
 Directories:
-- `/etc/nginx/ssl
+- `/etc/nginx/ssl`
 - `/etc/nginx/conf.d`
 
 ### Jenkins
